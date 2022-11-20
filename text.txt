@@ -1,0 +1,11 @@
+Our project is geared toward children's education, and we want to take it to the next level. 
+
+Based on a case study and our own views, 
+we researched that there was a significant
+decrease in the average primary school gpa following the lockdown in Europe.
+
+The foundation of our solution is a very popular and powerful teaching method called Suggestopedia.
+It could boost people's abilities to learn three times faster and more efficiently.
+
+We will enhance this method by creating a platform that will work as a
+ hub for different virtual reality providers and their products.
