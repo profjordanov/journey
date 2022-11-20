@@ -9,3 +9,6 @@ It could boost people's abilities to learn three times faster and more efficient
 
 We will enhance this method by creating a platform that will work as a
  hub for different virtual reality providers and their products.
+
+We plan a number of innovations, like game-oriented environments, etc.
+
